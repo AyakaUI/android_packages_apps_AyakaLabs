@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2026 AyakaUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:title="@string/custom_dashboard_title">
+
+    <!-- Miscellaneous -->
+    <Preference
+        android:key="miscellaneous"
+        android:title="@string/miscellaneous_title"
+        android:summary="@string/miscellaneous_summary"
+        android:icon="@drawable/ic_miscellaneous"
+        android:fragment="com.custom.settings.fragments.miscellaneous.Miscellaneous" />
+
+    <!-- About -->
+    <Preference
+        android:key="about"
+        android:title="@string/about_title"
+        android:summary="@string/about_summary"
+        android:icon="@drawable/ic_about"
+        android:fragment="com.custom.settings.fragments.about.About" />
+</PreferenceScreen>
