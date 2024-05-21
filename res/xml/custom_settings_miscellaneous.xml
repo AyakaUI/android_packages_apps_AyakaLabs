@@ -30,4 +30,10 @@
         android:summary="@string/spoof_ap_summary"
         android:fragment="com.custom.settings.fragments.miscellaneous.AppSpoofing" />
 
+    <!-- Hide screen capture status -->
+    <com.custom.settings.preferences.GlobalSettingSwitchPreference
+        android:key="hide_screen_capture_status"
+        android:title="@string/hide_screen_capture_status_title"
+        android:summary="@string/hide_screen_capture_status_summary"
+        android:defaultValue="false"/>
 </PreferenceScreen>

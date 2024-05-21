@@ -138,4 +138,8 @@
     <string name="spoof_ap_remove_profile_message">Remove %s?</string>
     <string name="spoof_ap_save">Save</string>
     <string name="spoof_ap_profile_applied">Applied %1$s</string>
+
+    <!-- Hide screen capture status -->
+    <string name="hide_screen_capture_status_title">Hide screen capture status</string>
+    <string name="hide_screen_capture_status_summary">Hide screen capture and screen record status from all applications. Can be convenient in some cases but may lead to privacy leaks. Need to restart applications for the change to take effect.</string>
 </resources>
