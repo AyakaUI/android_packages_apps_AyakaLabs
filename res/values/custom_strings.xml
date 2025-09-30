@@ -6,8 +6,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- AyakaUI -->
-    <string name="custom_dashboard_title">AyakaUI Settings</string>
-    <string name="custom_dashboard_summary">(:</string>
+    <string name="custom_dashboard_title">AyakaLabs</string>
+    <string name="custom_dashboard_summary"></string>
 
     <string name="miscellaneous_title">Miscellaneous</string>
     <string name="miscellaneous_summary">Developer options, spoofing</string>
@@ -25,6 +25,37 @@
     <string name="about_contributors_title">Contributors</string>
     <string name="about_contributor_title" translatable="false">henrique (whyakari)</string>
     <string name="about_contributor_summary" translatable="false">Founder/Lead Developer</string>
+
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">by default</string>
+    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
+    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="arrow_right" translatable="false">→</string>
+    <string name="arrow_down" translatable="false">↓</string>
+    <string name="hex" translatable="false">Hex:</string>
+    <string name="hex_hint" translatable="false">#ff000000</string>
+    <string name="set">Set</string>
+    <string name="color_default">Default</string>
+    <string name="accent_color">Accent color</string>
+    <string name="rainbow_color">Rainbow color</string>
+    <string name="custom_color">Custom color</string>
+
+    <!-- Proper seekbar -->
+    <string name="proper_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
+    <string name="proper_seekbar_default_value">Default</string>
+    <string name="proper_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
+    <string name="proper_seekbar_default_value_is_set">Default value is set</string>
+
+    <!-- Units -->
+    <string name="unit_hz">hz</string>
+    <string name="unit_milliseconds">milliseconds</string>
+    <string name="unit_pixels" translatable="false">dp</string>
+    <string name="unit_seconds">seconds</string>
 
     <!-- General -->
     <string name="enable">Enable</string>
