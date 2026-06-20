@@ -81,6 +81,14 @@
         The depth wallpaper feature, inspired by iOS\'s Wallpaper Subject Segmentation, enables overlaying of a subject above the lockscreen clock to show a wallpaper depth effect.\n\nTo setup Depth Wallpaper Feature:\n1. Set a wallpaper with the subject or a background you want the subject to be above of.\n2. Select a subject image to track, this image will be overlaid above the lockscreen clock.\n3. Modify the offsets and opacity according to your needs.
     </string>
 
+    <string name="depthwall_auto_subject_title">Depth wallpaper auto subject</string>
+    <string name="depthwall_auto_subject_summary">Automatically extract subject from wallpaper for depth effect</string>
+    <string name="depthwall_extract_now_title">Extract now</string>
+    <string name="depthwall_extract_now_summary">Trigger subject extraction immediately</string>
+    <string name="depthwall_extracting_toast">Extracting subject from wallpaper…</string>
+    <string name="depthwall_extraction_complete_toast">Subject extraction complete!</string>
+    <string name="depthwall_storage_permission_denied">Storage permission is required to automatically extract subjects from wallpapers.</string>
+
     <!-- Play Integrity Fix -->
     <string name="spoof_pif_title">Play Integrity Fix</string>
     <string name="spoof_pif_summary">Manage configuration and device fingerprints for PIF</string>
