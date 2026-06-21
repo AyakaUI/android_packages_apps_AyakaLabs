@@ -89,6 +89,11 @@
     <string name="depthwall_extraction_complete_toast">Subject extraction complete!</string>
     <string name="depthwall_storage_permission_denied">Storage permission is required to automatically extract subjects from wallpapers.</string>
 
+    <string name="depthwall_clear_subject_title">Clear subject image</string>
+    <string name="depthwall_clear_subject_summary">Remove the current extracted or manually set subject</string>
+    <string name="depthwall_clear_subject_confirm_message">This will remove the current depth wallpaper subject image. Continue?</string>
+    <string name="depthwall_clear_subject_done_toast">Subject image cleared</string>
+
     <!-- Play Integrity Fix -->
     <string name="spoof_pif_title">Play Integrity Fix</string>
     <string name="spoof_pif_summary">Manage configuration and device fingerprints for PIF</string>
