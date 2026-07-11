@@ -26,6 +26,19 @@
     <string name="about_contributor_title" translatable="false">henrique (whyakari)</string>
     <string name="about_contributor_summary" translatable="false">Founder/Lead Developer</string>
 
+    <!-- General -->
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="default_value">Default</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
+    <string name="reset">Reset</string>
+    <string name="delete_message">Remove selected item?</string>
+    <string name="choose_app">Choose app</string>
+    <string name="search">Search</string>
+    <string name="search_apps">Search apps</string>
+    <string name="apply">Apply</string>
+
     <!-- Play Integrity Fix -->
     <string name="spoof_pif_title">Play Integrity Fix</string>
     <string name="spoof_pif_summary">Manage configuration and device fingerprints for PIF</string>
