@@ -17,6 +17,13 @@
         android:icon="@drawable/ic_miscellaneous"
         android:fragment="com.custom.settings.fragments.miscellaneous.Miscellaneous" />
 
+    <!-- Depth Wallpaper -->
+    <Preference
+        android:key="depth_wallpaper"
+        android:title="@string/depthwall_wallpaper_enabled_title"
+        android:summary="@string/depthwall_wallpaper_enabled_summary"
+        android:fragment="com.custom.settings.fragments.lockscreen.WallpaperDepth" />
+
     <!-- About -->
     <Preference
         android:key="about"
