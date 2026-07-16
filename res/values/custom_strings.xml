@@ -70,6 +70,9 @@
     <string name="search_apps">Search apps</string>
     <string name="apply">Apply</string>
 
+    <!-- Quick Settings -->
+    <string name="quick_settings_header_needs_gallery">You must install a gallery app!</string>
+
     <!-- Depth Wallpaper -->
     <string name="depthwall_file_header_select_title">Select Depth wallpaper subject</string>
     <string name="depthwall_file_header_select_summary">Select depth wallpaper subject image from storage.</string>
